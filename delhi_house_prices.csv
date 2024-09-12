@@ -1,0 +1,739 @@
+Locality,Area,Bedrooms,Bathrooms,Age,Price
+C R Park,1184,1,2,22,6215104
+C R Park,1335,1,2,4,6456935
+C R Park,509,1,2,22,6545394
+C R Park,1304,2,2,7,7710744
+C R Park,1100,2,1,27,10446886
+C R Park,1051,2,2,15,8287633
+C R Park,1177,3,2,14,18964904
+C R Park,1277,3,1,20,17227056
+C R Park,1255,3,2,16,16443151
+Greater Kailash I,948,1,1,4,7479224
+Greater Kailash I,677,1,2,20,6784115
+Greater Kailash I,1410,1,2,1,9389289
+Greater Kailash I,1197,2,2,1,12663167
+Greater Kailash I,1214,2,1,24,14895619
+Greater Kailash I,1010,2,2,19,15705111
+Greater Kailash I,528,3,1,1,21024149
+Greater Kailash I,1401,3,1,9,29158063
+Greater Kailash I,888,3,2,11,19670810
+Hauz Khas,1043,1,1,2,7270113
+Hauz Khas,1499,1,2,26,8925891
+Hauz Khas,1370,1,2,12,7510862
+Hauz Khas,582,2,2,1,14588558
+Hauz Khas,1111,2,2,13,16052394
+Hauz Khas,584,2,2,5,12471492
+Hauz Khas,547,3,2,21,22953219
+Hauz Khas,1472,3,1,21,19314638
+Hauz Khas,643,3,1,4,28378170
+Lajpat Nagar,1291,1,2,14,4691845
+Lajpat Nagar,1060,1,2,6,5609689
+Lajpat Nagar,1175,1,1,6,6160688
+Lajpat Nagar,1381,2,1,5,8997698
+Lajpat Nagar,1316,2,2,4,8152941
+Lajpat Nagar,868,2,2,22,11519081
+Lajpat Nagar,883,3,1,11,19387090
+Lajpat Nagar,1055,3,1,24,14524443
+Lajpat Nagar,630,3,2,3,19441566
+Vasant Kunj,1431,1,1,28,4068483
+Vasant Kunj,1094,1,1,4,4732658
+Vasant Kunj,911,1,1,10,5073146
+Vasant Kunj,1205,2,1,11,8869814
+Vasant Kunj,543,2,1,12,9601634
+Vasant Kunj,807,2,1,1,8735712
+Vasant Kunj,1306,3,2,15,14471466
+Vasant Kunj,871,3,1,29,15500520
+Vasant Kunj,1089,3,1,25,12352893
+South Extension,1270,1,2,3,6177163
+South Extension,769,1,1,9,5562216
+South Extension,519,1,2,9,6778810
+South Extension,950,2,1,21,11691875
+South Extension,1329,2,1,1,10730276
+South Extension,1463,2,2,12,10113564
+South Extension,1098,3,2,26,13091757
+South Extension,1343,3,1,17,18131416
+South Extension,1425,3,2,15,17833305
+Defence Colony,964,1,1,26,6013429
+Defence Colony,945,1,2,2,7451880
+Defence Colony,1428,1,1,28,7108731
+Defence Colony,621,2,1,22,16586175
+Defence Colony,1025,2,2,25,14090552
+Defence Colony,1091,2,2,19,17738440
+Defence Colony,938,3,2,12,30366854
+Defence Colony,611,3,2,26,23945313
+Defence Colony,1235,3,1,13,20409528
+Jor Bagh,881,1,1,4,9403282
+Jor Bagh,1271,1,1,13,8365990
+Jor Bagh,791,1,1,6,10279575
+Jor Bagh,1055,2,1,12,18501992
+Jor Bagh,712,2,1,23,15436523
+Jor Bagh,921,2,2,29,16031087
+Jor Bagh,988,3,1,28,29785299
+Jor Bagh,717,3,2,22,21511731
+Jor Bagh,674,3,1,22,31572765
+Connaught Place,1079,1,2,8,8468681
+Connaught Place,573,1,2,24,6793923
+Connaught Place,1314,1,1,19,5736108
+Connaught Place,1271,2,2,10,10937066
+Connaught Place,1039,2,2,8,12090119
+Connaught Place,561,2,2,2,15999106
+Connaught Place,1430,3,1,2,20340520
+Connaught Place,1267,3,1,1,20130827
+Connaught Place,790,3,2,22,26878608
+Saket,946,1,1,2,6094609
+Saket,868,1,2,25,6628251
+Saket,668,1,1,5,5097200
+Saket,1037,2,2,8,9146755
+Saket,614,2,1,18,10791005
+Saket,1014,2,2,6,11450860
+Saket,1056,3,2,3,18885263
+Saket,591,3,2,8,18131527
+Saket,1471,3,1,18,17864422
+Dwarka,1467,1,1,29,5020435
+Dwarka,933,1,2,15,3346610
+Dwarka,980,1,2,10,3802795
+Dwarka,709,2,2,27,6429952
+Dwarka,1482,2,2,17,8693226
+Dwarka,664,2,1,25,8431604
+Dwarka,691,3,2,20,12797704
+Dwarka,1452,3,2,28,10772846
+Dwarka,587,3,1,20,10448967
+Karol Bagh,587,1,2,27,3882545
+Karol Bagh,620,1,1,24,3543723
+Karol Bagh,1232,1,1,26,5162378
+Karol Bagh,1282,2,1,29,8309684
+Karol Bagh,1478,2,1,23,7668611
+Karol Bagh,1390,2,2,8,10182248
+Karol Bagh,1073,3,2,6,13941184
+Karol Bagh,636,3,2,16,14637173
+Karol Bagh,639,3,1,8,12479004
+Pitampura,1441,1,1,11,4997172
+Pitampura,933,1,2,20,5114851
+Pitampura,1373,1,1,22,5359411
+Pitampura,1170,2,2,27,7618411
+Pitampura,1323,2,1,29,10867565
+Pitampura,1355,2,2,7,9807274
+Pitampura,553,3,1,28,14111824
+Pitampura,1166,3,1,4,16861498
+Pitampura,1445,3,1,10,14940204
+Rohini,1281,1,2,7,5437063
+Rohini,1148,1,2,25,5562032
+Rohini,1034,1,1,16,4685544
+Rohini,1239,2,1,18,8770663
+Rohini,968,2,2,3,9217244
+Rohini,900,2,1,19,6929805
+Rohini,1163,3,1,5,12608292
+Rohini,805,3,2,23,11221337
+Rohini,1288,3,2,6,13960057
+Janakpuri,907,1,2,2,3221875
+Janakpuri,1321,1,2,20,4578921
+Janakpuri,637,1,1,1,4642643
+Janakpuri,876,2,1,18,7695605
+Janakpuri,759,2,1,11,6991809
+Janakpuri,1032,2,1,5,7130608
+Janakpuri,1443,3,1,14,11312104
+Janakpuri,1490,3,2,12,14784191
+Janakpuri,1427,3,1,7,14257033
+Paschim Vihar,944,1,2,16,4193907
+Paschim Vihar,1344,1,1,18,4887658
+Paschim Vihar,726,1,2,12,5685420
+Paschim Vihar,728,2,1,2,7442183
+Paschim Vihar,524,2,1,5,9352515
+Paschim Vihar,1337,2,1,4,7247705
+Paschim Vihar,1180,3,1,2,12703484
+Paschim Vihar,1336,3,1,1,15010637
+Paschim Vihar,1447,3,2,22,16063141
+Punjabi Bagh,1429,1,2,9,5856022
+Punjabi Bagh,1352,1,2,4,6591221
+Punjabi Bagh,975,1,1,4,5390982
+Punjabi Bagh,1352,2,2,20,7974053
+Punjabi Bagh,847,2,2,10,10503371
+Punjabi Bagh,1058,2,1,9,9138809
+Punjabi Bagh,574,3,2,3,16213947
+Punjabi Bagh,843,3,1,20,13553242
+Punjabi Bagh,1218,3,1,20,14219014
+Rajouri Garden,1365,1,1,28,5910585
+Rajouri Garden,1190,1,2,10,4191929
+Rajouri Garden,593,1,2,18,5083811
+Rajouri Garden,1206,2,1,14,7419001
+Rajouri Garden,1475,2,2,5,9173630
+Rajouri Garden,1016,2,2,19,8989837
+Rajouri Garden,914,3,2,24,16039394
+Rajouri Garden,919,3,2,27,12763831
+Rajouri Garden,1038,3,1,23,14253260
+Shalimar Bagh,1219,1,1,27,4211027
+Shalimar Bagh,1498,1,1,17,5069532
+Shalimar Bagh,1315,1,1,9,5343136
+Shalimar Bagh,894,2,2,14,7482663
+Shalimar Bagh,1106,2,1,14,9261438
+Shalimar Bagh,1027,2,2,7,9717643
+Shalimar Bagh,1094,3,2,29,13452577
+Shalimar Bagh,1181,3,1,19,16098620
+Shalimar Bagh,834,3,2,28,14916164
+Tagore Garden,915,1,2,19,4457948
+Tagore Garden,674,1,2,19,4175489
+Tagore Garden,1280,1,1,10,4983600
+Tagore Garden,566,2,1,20,8730397
+Tagore Garden,638,2,1,27,9073467
+Tagore Garden,1196,2,1,2,7108704
+Tagore Garden,1209,3,1,3,14529404
+Tagore Garden,738,3,2,12,16490387
+Tagore Garden,1356,3,1,21,14629958
+Vikaspuri,1296,1,2,7,4830172
+Vikaspuri,1114,1,2,28,4225353
+Vikaspuri,600,1,1,14,4041211
+Vikaspuri,1171,2,2,4,7073389
+Vikaspuri,743,2,1,9,8677502
+Vikaspuri,781,2,2,14,8136022
+Vikaspuri,900,3,2,15,11641591
+Vikaspuri,1177,3,2,2,13929477
+Vikaspuri,1210,3,1,27,14530762
+Uttam Nagar,1450,1,1,9,3109413
+Uttam Nagar,1059,1,2,11,3620394
+Uttam Nagar,1254,1,2,28,3761955
+Uttam Nagar,625,2,1,19,5333210
+Uttam Nagar,1400,2,2,6,5196767
+Uttam Nagar,850,2,1,4,5380965
+Uttam Nagar,924,3,1,27,9704849
+Uttam Nagar,939,3,1,2,8452210
+Uttam Nagar,1365,3,1,18,9378655
+Malviya Nagar,1429,1,2,13,5053518
+Malviya Nagar,1386,1,1,3,4732307
+Malviya Nagar,1099,1,1,26,3710738
+Malviya Nagar,1375,2,1,10,7499342
+Malviya Nagar,1076,2,1,23,9332265
+Malviya Nagar,646,2,1,8,8023124
+Malviya Nagar,993,3,1,14,14393778
+Malviya Nagar,679,3,2,8,11937681
+Malviya Nagar,785,3,2,11,16578612
+Kalkaji,990,1,2,24,3569140
+Kalkaji,708,1,1,19,3876860
+Kalkaji,910,1,2,21,3637520
+Kalkaji,1462,2,1,10,9784226
+Kalkaji,872,2,1,10,8315385
+Kalkaji,880,2,2,5,7225082
+Kalkaji,568,3,2,11,15542476
+Kalkaji,1116,3,2,6,14821735
+Kalkaji,1428,3,1,2,16570659
+Nehru Place,717,1,1,25,5572050
+Nehru Place,1288,1,1,29,5574472
+Nehru Place,774,1,2,25,5846506
+Nehru Place,1135,2,1,25,9755587
+Nehru Place,672,2,2,14,8620086
+Nehru Place,500,2,1,4,10734790
+Nehru Place,1415,3,1,19,15520754
+Nehru Place,1370,3,1,12,15551862
+Nehru Place,628,3,1,14,18631529
+New Friends Colony,1206,1,2,13,9770127
+New Friends Colony,618,1,2,24,7410956
+New Friends Colony,1401,1,1,2,8031882
+New Friends Colony,506,2,2,7,16808742
+New Friends Colony,1434,2,2,19,17808917
+New Friends Colony,882,2,1,19,12015603
+New Friends Colony,758,3,1,10,24513843
+New Friends Colony,1468,3,2,21,23884715
+New Friends Colony,693,3,2,16,29402351
+East of Kailash,1088,1,2,25,3747449
+East of Kailash,1025,1,1,29,4539916
+East of Kailash,605,1,2,7,5430088
+East of Kailash,1422,2,1,6,9827439
+East of Kailash,1459,2,2,6,6878528
+East of Kailash,996,2,1,1,9403168
+East of Kailash,913,3,1,8,14064246
+East of Kailash,903,3,2,5,16641075
+East of Kailash,627,3,1,6,12564284
+Kailash Colony,960,1,1,18,4465836
+Kailash Colony,1498,1,2,21,5631983
+Kailash Colony,1342,1,1,4,5652067
+Kailash Colony,644,2,1,10,6732884
+Kailash Colony,1241,2,2,25,10826014
+Kailash Colony,1452,2,1,18,8594261
+Kailash Colony,1453,3,2,13,11947678
+Kailash Colony,579,3,1,15,12704641
+Kailash Colony,1400,3,1,5,14975271
+Jangpura,818,1,2,28,6877806
+Jangpura,507,1,2,23,4747678
+Jangpura,1258,1,1,28,6375215
+Jangpura,995,2,1,12,9483479
+Jangpura,1346,2,2,27,7423057
+Jangpura,1175,2,2,14,8285861
+Jangpura,568,3,2,14,18871141
+Jangpura,1287,3,2,9,17512032
+Jangpura,1221,3,2,29,19544932
+Lodi Colony,885,1,2,6,8039184
+Lodi Colony,730,1,1,9,5461462
+Lodi Colony,530,1,2,20,5567044
+Lodi Colony,1160,2,1,11,12678619
+Lodi Colony,951,2,1,29,10119770
+Lodi Colony,1105,2,2,9,13753884
+Lodi Colony,709,3,2,9,22081578
+Lodi Colony,978,3,2,2,27345710
+Lodi Colony,1177,3,1,25,17580775
+Chanakyapuri,1169,1,1,2,6409367
+Chanakyapuri,700,1,1,24,9772197
+Chanakyapuri,867,1,2,27,9199705
+Chanakyapuri,845,2,1,25,17866423
+Chanakyapuri,963,2,2,10,13287505
+Chanakyapuri,1476,2,1,12,17868421
+Chanakyapuri,874,3,2,16,19571158
+Chanakyapuri,865,3,2,12,21122288
+Chanakyapuri,699,3,2,23,24050724
+Anand Niketan,1350,1,2,22,8061534
+Anand Niketan,1014,1,1,11,8017253
+Anand Niketan,794,1,1,5,6110753
+Anand Niketan,1129,2,2,5,10181125
+Anand Niketan,761,2,1,4,13692632
+Anand Niketan,1445,2,2,21,10416114
+Anand Niketan,765,3,2,5,20292657
+Anand Niketan,524,3,1,3,20482003
+Anand Niketan,1399,3,2,12,27888141
+Sundar Nagar,984,1,2,27,6322950
+Sundar Nagar,1187,1,1,22,8813268
+Sundar Nagar,1182,1,1,26,8425425
+Sundar Nagar,1113,2,2,21,14782261
+Sundar Nagar,683,2,1,5,11601359
+Sundar Nagar,726,2,2,3,15732161
+Sundar Nagar,738,3,2,17,21627425
+Sundar Nagar,1037,3,2,14,21733529
+Sundar Nagar,1356,3,2,7,20137431
+Green Park,1230,1,2,27,4756378
+Green Park,913,1,1,6,4868761
+Green Park,1467,1,2,15,5151427
+Green Park,680,2,2,23,8754407
+Green Park,1191,2,1,26,9905571
+Green Park,1217,2,1,24,9637336
+Green Park,1336,3,2,20,12226201
+Green Park,849,3,1,12,13449390
+Green Park,1094,3,2,13,14477795
+Safdarjung Enclave,665,1,2,15,8141387
+Safdarjung Enclave,1469,1,2,17,5007228
+Safdarjung Enclave,1135,1,2,28,5481409
+Safdarjung Enclave,1414,2,2,29,15218464
+Safdarjung Enclave,1353,2,1,10,11120872
+Safdarjung Enclave,1478,2,2,29,13323989
+Safdarjung Enclave,1447,3,2,24,17986127
+Safdarjung Enclave,631,3,1,25,23144213
+Safdarjung Enclave,784,3,1,22,21982350
+Vasant Vihar,1379,1,2,13,7401835
+Vasant Vihar,781,1,2,12,5689274
+Vasant Vihar,1249,1,1,2,6731870
+Vasant Vihar,1156,2,2,17,15966369
+Vasant Vihar,533,2,1,7,14891432
+Vasant Vihar,828,2,2,11,10426579
+Vasant Vihar,1254,3,1,24,22047172
+Vasant Vihar,915,3,1,1,26510223
+Vasant Vihar,1319,3,2,13,21806218
+Malcha Marg,1000,1,2,17,9501126
+Malcha Marg,521,1,1,4,6836944
+Malcha Marg,820,1,2,19,8572651
+Malcha Marg,966,2,1,26,17638998
+Malcha Marg,1283,2,2,29,17360391
+Malcha Marg,783,2,1,26,11707386
+Malcha Marg,716,3,1,14,27525714
+Malcha Marg,578,3,1,21,25321847
+Malcha Marg,800,3,2,22,19707675
+Civil Lines,544,1,2,24,7455211
+Civil Lines,1089,1,1,15,7203058
+Civil Lines,1144,1,1,2,7082577
+Civil Lines,1445,2,2,26,7838281
+Civil Lines,974,2,1,3,9717553
+Civil Lines,520,2,1,1,9796774
+Civil Lines,736,3,1,16,14349706
+Civil Lines,662,3,1,7,13183286
+Civil Lines,1161,3,1,22,14354912
+Kashmere Gate,926,1,2,13,6094889
+Kashmere Gate,1261,1,2,28,4841087
+Kashmere Gate,1150,1,1,18,5989379
+Kashmere Gate,1113,2,1,24,8452317
+Kashmere Gate,1114,2,2,12,10109314
+Kashmere Gate,977,2,1,8,7039603
+Kashmere Gate,744,3,2,24,17650368
+Kashmere Gate,901,3,1,20,12428565
+Kashmere Gate,1106,3,1,16,15312368
+Model Town,1285,1,1,18,4997507
+Model Town,1499,1,2,4,5872336
+Model Town,726,1,1,27,6078854
+Model Town,532,2,2,24,10130254
+Model Town,1455,2,1,9,8596024
+Model Town,1297,2,1,3,10038481
+Model Town,976,3,2,17,13535944
+Model Town,1071,3,2,13,18378503
+Model Town,1408,3,1,21,13463019
+Ashok Vihar,575,1,2,9,5196352
+Ashok Vihar,712,1,2,29,5982949
+Ashok Vihar,931,1,2,8,6436910
+Ashok Vihar,1472,2,2,24,7996997
+Ashok Vihar,632,2,2,5,9586608
+Ashok Vihar,966,2,2,22,9190478
+Ashok Vihar,791,3,1,1,16224849
+Ashok Vihar,685,3,2,19,14493441
+Ashok Vihar,676,3,2,13,14166758
+Mehrauli,1136,1,2,5,4660291
+Mehrauli,858,1,1,19,5625222
+Mehrauli,928,1,2,15,4014077
+Mehrauli,1447,2,1,25,9063409
+Mehrauli,1335,2,2,28,8448803
+Mehrauli,533,2,2,20,9780758
+Mehrauli,911,3,1,25,12317141
+Mehrauli,1179,3,1,11,15540957
+Mehrauli,741,3,2,27,15200216
+Munirka,614,1,1,1,5598466
+Munirka,1135,1,2,2,4285467
+Munirka,758,1,1,20,5676820
+Munirka,1262,2,1,8,10928378
+Munirka,871,2,1,18,10970337
+Munirka,920,2,1,11,10818816
+Munirka,1010,3,1,27,15152290
+Munirka,1232,3,2,14,17265459
+Munirka,1059,3,2,5,12842663
+Sarita Vihar,809,1,1,10,5189394
+Sarita Vihar,657,1,2,29,3769898
+Sarita Vihar,966,1,1,18,5217315
+Sarita Vihar,1388,2,2,17,7253004
+Sarita Vihar,855,2,2,25,8221762
+Sarita Vihar,1288,2,2,18,6215980
+Sarita Vihar,538,3,1,11,14207141
+Sarita Vihar,862,3,1,16,11652356
+Sarita Vihar,935,3,1,6,10760611
+Okhla,1042,1,2,25,5512760
+Okhla,739,1,2,11,3928877
+Okhla,1499,1,1,6,5842887
+Okhla,1414,2,2,29,7016120
+Okhla,660,2,1,8,9611796
+Okhla,604,2,1,16,9813780
+Okhla,1496,3,1,17,13962356
+Okhla,718,3,1,17,15660448
+Okhla,1106,3,1,24,14461292
+Geeta Colony,1095,1,2,24,3075810
+Geeta Colony,911,1,2,3,2813649
+Geeta Colony,1227,1,2,14,4242224
+Geeta Colony,1483,2,1,6,5811385
+Geeta Colony,731,2,2,18,5837404
+Geeta Colony,744,2,2,5,6931989
+Geeta Colony,956,3,1,19,13103073
+Geeta Colony,874,3,2,17,9171993
+Geeta Colony,1081,3,2,4,12205191
+Shahdara,1013,1,2,8,3798361
+Shahdara,600,1,2,13,4346738
+Shahdara,911,1,1,12,4249043
+Shahdara,854,2,2,5,8169936
+Shahdara,612,2,1,26,7345731
+Shahdara,1020,2,2,15,7566016
+Shahdara,872,3,1,1,12073794
+Shahdara,1375,3,2,22,10555000
+Shahdara,502,3,2,8,13035980
+Preet Vihar,703,1,2,29,5384534
+Preet Vihar,1363,1,2,17,4342098
+Preet Vihar,710,1,1,22,4774991
+Preet Vihar,1379,2,2,2,9128938
+Preet Vihar,630,2,2,9,7986935
+Preet Vihar,647,2,2,8,8475427
+Preet Vihar,1237,3,1,18,12491216
+Preet Vihar,684,3,2,25,10746938
+Preet Vihar,1401,3,2,27,15295210
+Patparganj,967,1,2,14,5743102
+Patparganj,522,1,2,7,4123209
+Patparganj,1273,1,1,11,3886416
+Patparganj,815,2,2,5,10417116
+Patparganj,1165,2,1,14,8146397
+Patparganj,681,2,2,7,6643388
+Patparganj,1214,3,2,5,14682788
+Patparganj,840,3,2,19,14870898
+Patparganj,1098,3,2,11,12011243
+Mayur Vihar,1455,1,1,28,4839027
+Mayur Vihar,932,1,1,25,3883073
+Mayur Vihar,1372,1,2,6,4953871
+Mayur Vihar,1131,2,2,21,8506807
+Mayur Vihar,1474,2,1,20,9961273
+Mayur Vihar,937,2,1,1,7767860
+Mayur Vihar,889,3,1,25,16466097
+Mayur Vihar,1464,3,1,1,16018577
+Mayur Vihar,837,3,1,10,12430655
+Indraprastha Extension,850,1,2,13,5997891
+Indraprastha Extension,916,1,1,24,4025240
+Indraprastha Extension,912,1,2,2,5161746
+Indraprastha Extension,1314,2,1,9,10882085
+Indraprastha Extension,1132,2,1,18,9573135
+Indraprastha Extension,1207,2,2,17,10387192
+Indraprastha Extension,1162,3,1,8,13410961
+Indraprastha Extension,526,3,1,5,13743693
+Indraprastha Extension,589,3,1,29,12329683
+Dwarka Mor,1123,1,2,15,3791186
+Dwarka Mor,621,1,1,28,4076004
+Dwarka Mor,858,1,1,13,3909699
+Dwarka Mor,1158,2,2,20,7364241
+Dwarka Mor,1043,2,2,19,8369516
+Dwarka Mor,1123,2,2,8,8132546
+Dwarka Mor,1339,3,1,14,14910512
+Dwarka Mor,565,3,1,17,12390029
+Dwarka Mor,883,3,2,6,13414136
+Uttam Nagar West,1444,1,1,5,3344080
+Uttam Nagar West,1447,1,1,9,3137489
+Uttam Nagar West,894,1,2,15,2704966
+Uttam Nagar West,897,2,1,23,4839965
+Uttam Nagar West,1474,2,1,26,5173215
+Uttam Nagar West,719,2,1,15,7123243
+Uttam Nagar West,968,3,2,3,12352985
+Uttam Nagar West,1137,3,1,1,12545183
+Uttam Nagar West,684,3,1,7,11245974
+Rajendra Nagar,690,1,2,15,3578587
+Rajendra Nagar,589,1,2,13,4339635
+Rajendra Nagar,659,1,2,29,4608283
+Rajendra Nagar,1004,2,2,9,9125928
+Rajendra Nagar,877,2,2,16,8694237
+Rajendra Nagar,1296,2,1,11,6292810
+Rajendra Nagar,1224,3,2,1,11331143
+Rajendra Nagar,538,3,1,2,15560822
+Rajendra Nagar,545,3,1,18,13315510
+Inderlok,731,1,1,29,4004161
+Inderlok,841,1,1,1,3284402
+Inderlok,826,1,1,4,4144117
+Inderlok,984,2,2,20,7406106
+Inderlok,582,2,1,26,7986318
+Inderlok,579,2,2,28,8313077
+Inderlok,1013,3,2,20,12605152
+Inderlok,747,3,2,26,9848772
+Inderlok,968,3,1,20,10178917
+Jahangirpuri,1224,1,2,5,3903017
+Jahangirpuri,708,1,1,26,4323333
+Jahangirpuri,596,1,1,4,2985150
+Jahangirpuri,1360,2,2,11,7238044
+Jahangirpuri,595,2,1,12,7211931
+Jahangirpuri,1317,2,2,8,7325562
+Jahangirpuri,505,3,2,25,10576812
+Jahangirpuri,1244,3,2,28,8940301
+Jahangirpuri,1027,3,1,23,8940386
+Bawana,1339,1,2,9,3016647
+Bawana,835,1,2,10,3123254
+Bawana,973,1,2,20,3327198
+Bawana,1297,2,2,12,5449786
+Bawana,1371,2,2,19,4769896
+Bawana,755,2,2,4,5391121
+Bawana,1186,3,2,11,10414815
+Bawana,851,3,2,28,8620261
+Bawana,907,3,1,8,7777553
+Sadar Bazar,857,1,1,12,3411509
+Sadar Bazar,1452,1,2,25,4264977
+Sadar Bazar,1033,1,1,19,3438335
+Sadar Bazar,845,2,2,6,6371345
+Sadar Bazar,668,2,2,11,6736191
+Sadar Bazar,603,2,2,25,6016085
+Sadar Bazar,947,3,1,1,13723833
+Sadar Bazar,873,3,2,5,13065305
+Sadar Bazar,1472,3,1,19,13241932
+Nangloi,1420,1,2,4,3771498
+Nangloi,1019,1,1,29,3973902
+Nangloi,727,1,2,18,3946359
+Nangloi,561,2,2,22,6283501
+Nangloi,1019,2,1,16,5090791
+Nangloi,1362,2,2,11,8150770
+Nangloi,1077,3,2,19,9894126
+Nangloi,589,3,2,25,9470936
+Nangloi,1084,3,1,3,10647290
+Najafgarh,1023,1,1,12,3094692
+Najafgarh,1394,1,2,13,3569361
+Najafgarh,723,1,1,17,3273034
+Najafgarh,639,2,2,3,4535569
+Najafgarh,795,2,1,11,5606690
+Najafgarh,877,2,2,12,7385550
+Najafgarh,551,3,1,10,12030787
+Najafgarh,772,3,2,1,8954829
+Najafgarh,1306,3,1,4,9627731
+Gandhi Nagar,1093,1,1,8,4383416
+Gandhi Nagar,767,1,1,29,4121851
+Gandhi Nagar,1142,1,1,9,3979001
+Gandhi Nagar,794,2,1,2,8528344
+Gandhi Nagar,819,2,2,5,6754635
+Gandhi Nagar,1177,2,2,23,7620348
+Gandhi Nagar,798,3,2,23,13534835
+Gandhi Nagar,935,3,1,24,11633491
+Gandhi Nagar,1293,3,2,6,11077677
+Daryaganj,867,1,1,20,4412059
+Daryaganj,1440,1,1,25,4737291
+Daryaganj,1133,1,1,15,5020327
+Daryaganj,596,2,2,2,8882070
+Daryaganj,931,2,1,14,7775766
+Daryaganj,671,2,1,16,8427748
+Daryaganj,702,3,2,8,14317002
+Daryaganj,991,3,1,23,14419552
+Daryaganj,1093,3,1,13,13421115
+Khan Market,1311,1,1,16,6074518
+Khan Market,1299,1,1,3,8877410
+Khan Market,1310,1,1,27,9654462
+Khan Market,1304,2,2,13,15989649
+Khan Market,740,2,2,7,15612358
+Khan Market,932,2,2,29,12167437
+Khan Market,1196,3,2,22,19059202
+Khan Market,1021,3,1,25,25030500
+Khan Market,784,3,1,1,24718986
+Sarojini Nagar,1392,1,2,12,5831746
+Sarojini Nagar,921,1,2,24,4892177
+Sarojini Nagar,1015,1,2,3,5578035
+Sarojini Nagar,1094,2,1,11,9852786
+Sarojini Nagar,528,2,2,22,8393402
+Sarojini Nagar,869,2,2,11,9851598
+Sarojini Nagar,697,3,1,12,16506995
+Sarojini Nagar,562,3,1,11,19764905
+Sarojini Nagar,719,3,2,12,19335040
+Chittaranjan Park,666,1,2,20,5138582
+Chittaranjan Park,882,1,2,26,5432597
+Chittaranjan Park,1237,1,2,13,6199337
+Chittaranjan Park,871,2,2,4,9889513
+Chittaranjan Park,750,2,2,9,9208180
+Chittaranjan Park,779,2,1,9,8132713
+Chittaranjan Park,737,3,1,16,17854447
+Chittaranjan Park,536,3,2,6,18484362
+Chittaranjan Park,1266,3,1,20,12948710
+Govindpuri,1233,1,2,17,3350851
+Govindpuri,782,1,2,7,3738217
+Govindpuri,985,1,2,18,3859639
+Govindpuri,1393,2,2,4,5274964
+Govindpuri,975,2,2,24,7232590
+Govindpuri,770,2,1,4,7163135
+Govindpuri,873,3,1,12,11579323
+Govindpuri,858,3,2,21,10894647
+Govindpuri,790,3,1,2,13046349
+Badarpur,1435,1,1,23,2514609
+Badarpur,1448,1,1,9,3510437
+Badarpur,725,1,1,27,3167218
+Badarpur,1278,2,1,12,6348798
+Badarpur,827,2,1,11,4855605
+Badarpur,827,2,2,13,5733014
+Badarpur,618,3,2,26,9039213
+Badarpur,877,3,1,4,11733011
+Badarpur,749,3,2,2,9941913
+Khanpur,1019,1,1,6,4188820
+Khanpur,854,1,1,14,3770599
+Khanpur,1045,1,2,2,2638212
+Khanpur,780,2,1,2,5358450
+Khanpur,1267,2,1,25,4884029
+Khanpur,687,2,2,26,7573789
+Khanpur,739,3,1,29,11824792
+Khanpur,887,3,1,22,9330438
+Khanpur,584,3,2,24,10424091
+Madangir,1422,1,2,1,3189838
+Madangir,887,1,2,6,3107559
+Madangir,876,1,1,12,3276139
+Madangir,886,2,1,6,7681617
+Madangir,1262,2,2,15,7307973
+Madangir,1346,2,2,10,5196718
+Madangir,1120,3,1,3,13031971
+Madangir,628,3,2,13,12692940
+Madangir,736,3,2,20,9387808
+Tughlakabad,1285,1,2,28,3796258
+Tughlakabad,728,1,2,22,2845119
+Tughlakabad,1234,1,1,6,4584465
+Tughlakabad,538,2,2,2,5638767
+Tughlakabad,1226,2,2,18,7240085
+Tughlakabad,906,2,2,19,6766223
+Tughlakabad,1206,3,2,10,9057202
+Tughlakabad,1308,3,1,20,11905519
+Tughlakabad,1272,3,1,18,9925310
+Chhatarpur,1146,1,1,13,4717928
+Chhatarpur,892,1,1,13,3534597
+Chhatarpur,518,1,1,6,4422909
+Chhatarpur,1005,2,2,5,5757418
+Chhatarpur,657,2,2,18,7391802
+Chhatarpur,895,2,2,9,7694808
+Chhatarpur,1015,3,1,12,10212530
+Chhatarpur,1155,3,2,4,9086582
+Chhatarpur,1496,3,1,8,13925630
+Neb Sarai,1481,1,2,22,3700483
+Neb Sarai,1068,1,2,24,3152655
+Neb Sarai,801,1,1,16,3974049
+Neb Sarai,511,2,2,6,7614462
+Neb Sarai,686,2,1,28,7638656
+Neb Sarai,1305,2,2,29,6358397
+Neb Sarai,750,3,2,8,10467451
+Neb Sarai,529,3,1,9,12312001
+Neb Sarai,706,3,1,12,14203990
+Sangam Vihar,1357,1,1,19,2507208
+Sangam Vihar,698,1,1,23,3754523
+Sangam Vihar,1087,1,2,21,3984351
+Sangam Vihar,1272,2,2,21,6131231
+Sangam Vihar,1329,2,2,16,6034483
+Sangam Vihar,860,2,1,27,6003113
+Sangam Vihar,1446,3,2,18,8711047
+Sangam Vihar,1324,3,2,4,10888585
+Sangam Vihar,1232,3,2,17,8933511
+Rangpuri,1129,1,2,28,4197127
+Rangpuri,818,1,1,6,2668613
+Rangpuri,1109,1,2,29,3219950
+Rangpuri,538,2,2,9,6988481
+Rangpuri,822,2,1,17,5739197
+Rangpuri,694,2,2,11,7329038
+Rangpuri,1132,3,1,8,10047645
+Rangpuri,1401,3,1,19,9917678
+Rangpuri,1475,3,2,1,12612503
+Kapashera,1261,1,2,7,4270505
+Kapashera,620,1,2,12,3741239
+Kapashera,1008,1,1,9,3875228
+Kapashera,536,2,1,4,5155710
+Kapashera,953,2,1,27,5716306
+Kapashera,884,2,2,21,5672461
+Kapashera,1102,3,1,12,12871605
+Kapashera,1090,3,2,9,12943203
+Kapashera,1373,3,2,6,11072314
+Mahipalpur,1203,1,2,12,2875501
+Mahipalpur,1437,1,2,14,4302640
+Mahipalpur,1068,1,1,18,3339487
+Mahipalpur,1485,2,1,14,7811943
+Mahipalpur,782,2,2,5,6793227
+Mahipalpur,931,2,1,29,5775321
+Mahipalpur,1340,3,1,28,9420103
+Mahipalpur,1193,3,2,25,10292363
+Mahipalpur,1305,3,2,18,12023764
+Palam,977,1,2,25,3645405
+Palam,939,1,1,24,4262617
+Palam,1149,1,1,7,3637683
+Palam,955,2,1,7,6311804
+Palam,914,2,2,25,6643710
+Palam,1145,2,2,17,7614042
+Palam,945,3,2,7,13451353
+Palam,703,3,2,21,12359514
+Palam,539,3,2,19,11468838
+Kishangarh,1080,1,2,8,4380479
+Kishangarh,707,1,2,4,3827878
+Kishangarh,1391,1,2,8,3545099
+Kishangarh,1322,2,1,19,7165227
+Kishangarh,1191,2,1,27,6646960
+Kishangarh,1040,2,2,6,7560296
+Kishangarh,645,3,1,13,9984572
+Kishangarh,1165,3,1,28,9532869
+Kishangarh,1199,3,2,26,11901466
+Arjun Nagar,774,1,1,2,3955387
+Arjun Nagar,1022,1,2,17,2990779
+Arjun Nagar,1136,1,1,1,3440039
+Arjun Nagar,1165,2,2,28,5473880
+Arjun Nagar,872,2,2,5,7226933
+Arjun Nagar,1125,2,1,9,6566351
+Arjun Nagar,666,3,1,2,8910107
+Arjun Nagar,1281,3,2,10,10700296
+Arjun Nagar,1146,3,1,13,11215568
+Bijwasan,761,1,1,24,2814709
+Bijwasan,778,1,2,24,4050235
+Bijwasan,1390,1,1,12,4021499
+Bijwasan,534,2,1,7,6537048
+Bijwasan,1088,2,2,17,7540005
+Bijwasan,500,2,1,18,6183428
+Bijwasan,1107,3,1,11,9577757
+Bijwasan,1365,3,2,17,9045708
+Bijwasan,928,3,2,12,9304720
+Dabri,1004,1,1,19,4080261
+Dabri,1026,1,1,19,4089700
+Dabri,803,1,1,18,3014277
+Dabri,754,2,2,13,5778600
+Dabri,994,2,1,17,7213642
+Dabri,1017,2,2,16,6088678
+Dabri,774,3,1,17,11554869
+Dabri,1493,3,2,11,11015999
+Dabri,1095,3,1,20,9363391
+Dwarka Sector 7,1382,1,2,8,3313959
+Dwarka Sector 7,1073,1,2,13,3138164
+Dwarka Sector 7,1248,1,1,27,2945895
+Dwarka Sector 7,690,2,1,17,7361072
+Dwarka Sector 7,1010,2,1,5,7546125
+Dwarka Sector 7,1480,2,1,13,5437787
+Dwarka Sector 7,1193,3,2,27,13520722
+Dwarka Sector 7,634,3,1,3,12813914
+Dwarka Sector 7,738,3,2,14,10858879
